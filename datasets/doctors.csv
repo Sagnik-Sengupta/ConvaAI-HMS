@@ -1,0 +1,23 @@
+doctor_id,doctor_name,gender,department_name,doctor_email,password,doctor_license_number,doctor_age,doctor_phone,doctor_specialization,doctor_experience,doctor_awards,doctor_publications
+DOC001,Dr. John Smith,male,Cardiology,doctor1@example.com,password1,LIC001,35,1234567890,Cardiologist,10,Best Cardiologist 2023,Cardiology Journals
+DOC002,Dr. Emily Johnson,female,Pediatrics,doctor2@example.com,password2,LIC002,42,1234567891,Pediatrician,15,Pediatric Excellence Award,Pediatric Research Papers
+DOC003,Dr. Michael Brown,male,Orthopedics,doctor3@example.com,password3,LIC003,48,1234567892,Orthopedist,20,Orthopedic Achievement Award,Orthopedic Reports
+DOC004,Dr. Sarah Wilson,female,Neurology,doctor4@example.com,password4,LIC004,50,1234567893,Neurologist,22,Best Neurologist 2022,Neurology Papers
+DOC005,Dr. Robert Davis,male,Dermatology,doctor5@example.com,password5,LIC005,38,1234567894,Dermatologist,12,Dermatology Excellence Award,Dermatology Publications
+DOC006,Dr. Laura Martinez,female,Oncology,doctor6@example.com,password6,LIC006,45,1234567895,Oncologist,18,Best Oncologist 2021,Oncology Journals
+DOC007,Dr. Christopher Lee,male,Gastroenterology,doctor7@example.com,password7,LIC007,47,1234567896,Gastroenterologist,16,Gastroenterology Award of Merit,Gastroenterology Reports
+DOC008,Dr. Jennifer Garcia,female,Psychiatry,doctor8@example.com,password8,LIC008,40,1234567897,Psychiatrist,14,Psychiatry Achievement Award,Psychiatry Publications
+DOC009,Dr. Daniel Clark,male,Urology,doctor9@example.com,password9,LIC009,43,1234567898,Urologist,17,Best Urologist 2020,Urology Research Papers
+DOC010,Dr. Amanda White,female,Endocrinology,doctor10@example.com,password10,LIC010,36,1234567899,Endocrinologist,11,Endocrinology Award of Excellence,Endocrinology Journals
+DOC011,Dr. James Johnson,male,Cardiology,doctor11@example.com,password11,LIC011,38,1234567800,Cardiologist,12,Cardiology Excellence Award,Cardiology Journals
+DOC012,Dr. Samantha Lee,female,Cardiology,doctor12@example.com,password12,LIC012,41,1234567801,Cardiologist,14,Best Cardiologist 2021,Cardiology Research Papers
+DOC013,Dr. William Rodriguez,male,Cardiology,doctor13@example.com,password13,LIC013,39,1234567802,Cardiologist,11,Cardiology Award of Merit,Cardiology Reports
+DOC014,Dr. Sophia Martinez,female,Pediatrics,doctor14@example.com,password14,LIC014,37,1234567803,Pediatrician,10,Pediatrics Achievement Award,Pediatrics Publications
+DOC015,Dr. Ethan Wilson,male,Pediatrics,doctor15@example.com,password15,LIC015,40,1234567804,Pediatrician,13,Best Pediatrician 2022,Pediatrics Journals
+DOC016,Dr. Olivia Garcia,female,Pediatrics,doctor16@example.com,password16,LIC016,42,1234567805,Pediatrician,15,Pediatrics Excellence Award,Pediatrics Research Papers
+DOC017,Dr. Benjamin Clark,male,Dermatology,doctor17@example.com,password17,LIC017,36,1234567806,Dermatologist,9,Dermatology Award of Merit,Dermatology Reports
+DOC018,Dr. Emma Davis,female,Dermatology,doctor18@example.com,password18,LIC018,38,1234567807,Dermatologist,11,Best Dermatologist 2023,Dermatology Journals
+DOC019,Dr. Noah Brown,male,Dermatology,doctor19@example.com,password19,LIC019,35,1234567808,Dermatologist,8,Dermatology Achievement Award,Dermatology Publications
+DOC020,Dr. Ava White,female,Orthopedics,doctor20@example.com,password20,LIC020,39,1234567809,Orthopedist,10,Orthopedics Excellence Award,Orthopedics Journals
+DOC021,Dr. Jacob Smith,male,Orthopedics,doctor21@example.com,password21,LIC021,42,1234567810,Orthopedist,12,Best Orthopedist 2022,Orthopedics Research Papers
+DOC022,Dr. Mia Johnson,female,Orthopedics,doctor22@example.com,password22,LIC022,41,1234567811,Orthopedist,11,Orthopedics Award of Merit,Orthopedics Reports

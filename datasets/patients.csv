@@ -1,0 +1,25 @@
+patient_id,patient_name,patient_gender,patient_age,patient_contact,patient_address,patient_email,patient_password
+PAT001,John Doe,male,30,9876543210,"123 Main St, Anytown",john.doe@example.com,password1
+PAT002,Jane Smith,female,25,9876543211,"456 Oak St, Anytown",jane.smith@example.com,password2
+PAT003,Michael Johnson,male,45,9876543212,"789 Elm St, Anytown",michael.johnson@example.com,password3
+PAT004,Emily Brown,female,35,9876543213,"101 Maple St, Anytown",emily.brown@example.com,password4
+PAT005,David Wilson,male,28,9876543214,"222 Pine St, Anytown",david.wilson@example.com,password5
+PAT006,Sarah Martinez,female,32,9876543215,"333 Cedar St, Anytown",sarah.martinez@example.com,password6
+PAT007,Daniel Lee,male,40,9876543216,"444 Birch St, Anytown",daniel.lee@example.com,password7
+PAT008,Jennifer Garcia,female,38,9876543217,"555 Walnut St, Anytown",jennifer.garcia@example.com,password8
+PAT009,Christopher Clark,male,50,9876543218,"666 Oak St, Anytown",christopher.clark@example.com,password9
+PAT010,Amanda White,female,33,9876543219,"777 Elm St, Anytown",amanda.white@example.com,password10
+PAT011,James Wilson,male,55,9876543220,"888 Oak St, Anytown",james.wilson@example.com,password11
+PAT012,Sophia Brown,female,62,9876543221,"999 Pine St, Anytown",sophia.brown@example.com,password12
+PAT013,Ethan Martinez,male,6,9876543222,"111 Cedar St, Anytown",ethan.martinez@example.com,password13
+PAT014,Olivia Clark,female,3,9876543223,"222 Birch St, Anytown",olivia.clark@example.com,password14
+PAT015,Noah Garcia,male,40,9876543224,"333 Elm St, Anytown",noah.garcia@example.com,password15
+PAT016,Emma White,female,28,9876543225,"444 Walnut St, Anytown",emma.white@example.com,password16
+PAT017,Ava Smith,female,47,9876543226,"555 Maple St, Anytown",ava.smith@example.com,password17
+PAT018,Jacob Johnson,male,55,9876543227,"666 Oak St, Anytown",jacob.johnson@example.com,password18
+PAT019,Isabella Davis,female,20,9876543228,"777 Cedar St, Anytown",isabella.davis@example.com,password19
+PAT020,Liam Martinez,male,28,9876543229,"888 Birch St, Anytown",liam.martinez@example.com,password20
+PAT021,Mia Wilson,female,35,9876543230,"999 Elm St, Anytown",mia.wilson@example.com,password21
+PAT022,Logan Brown,male,45,9876543231,"111 Pine St, Anytown",logan.brown@example.com,password22
+PAT023,Keerthan C,male,25,1234588890,"123 Main St, City",keerr@example.com,password@1234
+PAT024,Manikanth,male,19,9652286832,"123 Main St, City",martha@example.com,password@12

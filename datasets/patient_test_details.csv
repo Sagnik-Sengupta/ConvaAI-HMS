@@ -1,0 +1,58 @@
+patient_name,patient_recommened_tests,patient_taken_test,result
+John Doe,Blood Pressure Measurement,Brochitis test,120/mg
+John Doe,Blood Pressure Measurement,Complete Blood Count (CBC),Normal blood cell counts
+John Doe,Blood Pressure Measurement,Oral Glucose Tolerance Test (OGTT),"Glucose levels: Fasting: 120 mg/dL, 2-hour: 180 mg/dL"
+John Doe,Blood Pressure Measurement,Thyroid Function Tests,"TSH: 4.2 uIU/mL, T3: 2.5 pg/mL, T4: 10.0 mcg/dL"
+John Doe,Blood Pressure Measurement,Blood Pressure Measurement,120/80 mmHg
+Jane Smith,Influenza PCR Test,Influenza PCR Test,Positive for Influenza A
+Michael Johnson,MRI of Lumbar Spine,DEXA Scan,T-score: -1.0 (normal bone density)
+Michael Johnson,MRI of Lumbar Spine,Spirometry,Forced expiratory volume: 85%
+Michael Johnson,MRI of Lumbar Spine,MRI of Lumbar Spine,Lumbar disc herniation at L4-L5
+Emily Brown,Allergy Skin Prick Test,Allergy Skin Prick Test,Positive for dust mites and pollen
+David Wilson,Skin Patch Test,Colonoscopy,No polyps or abnormalities found
+David Wilson,Skin Patch Test,X-ray of Knee,Mild osteoarthritis in the knee
+David Wilson,Skin Patch Test,Skin Patch Test,Positive for nickel allergy
+Sarah Martinez,Brain MRI,Brain MRI,Normal
+Jennifer Garcia,Anxiety Questionnaire,Anxiety Questionnaire,Score: 25 (Moderate Anxiety)
+Christopher Clark,Prostate Specific Antigen (PSA) Test,Prostate Specific Antigen (PSA) Test,PSA level: 3.5 ng/mL
+John Doe,Oral Glucose Tolerance Test (OGTT),Brochitis test,120/mg
+John Doe,Oral Glucose Tolerance Test (OGTT),Complete Blood Count (CBC),Normal blood cell counts
+John Doe,Oral Glucose Tolerance Test (OGTT),Oral Glucose Tolerance Test (OGTT),"Glucose levels: Fasting: 120 mg/dL, 2-hour: 180 mg/dL"
+John Doe,Oral Glucose Tolerance Test (OGTT),Thyroid Function Tests,"TSH: 4.2 uIU/mL, T3: 2.5 pg/mL, T4: 10.0 mcg/dL"
+John Doe,Oral Glucose Tolerance Test (OGTT),Blood Pressure Measurement,120/80 mmHg
+James Wilson,Echocardiogram,Echocardiogram,Normal ejection fraction: 60%
+John Doe,Complete Blood Count (CBC),Brochitis test,120/mg
+John Doe,Complete Blood Count (CBC),Complete Blood Count (CBC),Normal blood cell counts
+John Doe,Complete Blood Count (CBC),Oral Glucose Tolerance Test (OGTT),"Glucose levels: Fasting: 120 mg/dL, 2-hour: 180 mg/dL"
+John Doe,Complete Blood Count (CBC),Thyroid Function Tests,"TSH: 4.2 uIU/mL, T3: 2.5 pg/mL, T4: 10.0 mcg/dL"
+John Doe,Complete Blood Count (CBC),Blood Pressure Measurement,120/80 mmHg
+Ethan Martinez,Electrocardiogram (ECG),Electrocardiogram (ECG),"Sinus rhythm, no abnormalities"
+John Doe,Spirometry,Brochitis test,120/mg
+John Doe,Spirometry,Complete Blood Count (CBC),Normal blood cell counts
+John Doe,Spirometry,Oral Glucose Tolerance Test (OGTT),"Glucose levels: Fasting: 120 mg/dL, 2-hour: 180 mg/dL"
+John Doe,Spirometry,Thyroid Function Tests,"TSH: 4.2 uIU/mL, T3: 2.5 pg/mL, T4: 10.0 mcg/dL"
+John Doe,Spirometry,Blood Pressure Measurement,120/80 mmHg
+Noah Garcia,Patch Test for Contact Dermatitis,Patch Test for Contact Dermatitis,Positive for nickel allergy
+Michael Johnson,DEXA Scan,DEXA Scan,T-score: -1.0 (normal bone density)
+Michael Johnson,DEXA Scan,Spirometry,Forced expiratory volume: 85%
+Michael Johnson,DEXA Scan,MRI of Lumbar Spine,Lumbar disc herniation at L4-L5
+Ava Smith,Ultrasound of Abdomen,Ultrasound of Abdomen,No abnormalities detected
+David Wilson,X-ray of Knee,Colonoscopy,No polyps or abnormalities found
+David Wilson,X-ray of Knee,X-ray of Knee,Mild osteoarthritis in the knee
+David Wilson,X-ray of Knee,Skin Patch Test,Positive for nickel allergy
+Michael Johnson,CT Scan of Brain,DEXA Scan,T-score: -1.0 (normal bone density)
+Michael Johnson,CT Scan of Brain,Spirometry,Forced expiratory volume: 85%
+Michael Johnson,CT Scan of Brain,MRI of Lumbar Spine,Lumbar disc herniation at L4-L5
+David Wilson,Colonoscopy,Colonoscopy,No polyps or abnormalities found
+David Wilson,Colonoscopy,X-ray of Knee,Mild osteoarthritis in the knee
+David Wilson,Colonoscopy,Skin Patch Test,Positive for nickel allergy
+John Doe,Brochitis test,Brochitis test,120/mg
+John Doe,Brochitis test,Complete Blood Count (CBC),Normal blood cell counts
+John Doe,Brochitis test,Oral Glucose Tolerance Test (OGTT),"Glucose levels: Fasting: 120 mg/dL, 2-hour: 180 mg/dL"
+John Doe,Brochitis test,Thyroid Function Tests,"TSH: 4.2 uIU/mL, T3: 2.5 pg/mL, T4: 10.0 mcg/dL"
+John Doe,Brochitis test,Blood Pressure Measurement,120/80 mmHg
+John Doe,Sputum Test,Brochitis test,120/mg
+John Doe,Sputum Test,Complete Blood Count (CBC),Normal blood cell counts
+John Doe,Sputum Test,Oral Glucose Tolerance Test (OGTT),"Glucose levels: Fasting: 120 mg/dL, 2-hour: 180 mg/dL"
+John Doe,Sputum Test,Thyroid Function Tests,"TSH: 4.2 uIU/mL, T3: 2.5 pg/mL, T4: 10.0 mcg/dL"
+John Doe,Sputum Test,Blood Pressure Measurement,120/80 mmHg

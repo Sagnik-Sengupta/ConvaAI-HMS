@@ -1,0 +1,5 @@
+"doctor_name","date_of_appointment","slot_no","patient_id","name"
+"Dr. John Smith","2024-04-17",6,"PAT001","John Doe"
+"Dr. Michael Brown","2024-05-08",3,"PAT001","John Doe"
+"Dr. Robert Davis","2024-05-10",5,"PAT001","John Doe"
+"Dr. James Johnson","2024-05-13",3,"PAT001","John Doe"
